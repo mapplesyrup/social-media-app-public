@@ -14,9 +14,9 @@ Commence par un message court :
    - S'il manque : donne le lien https://nodejs.org (bouton « Télécharger », version LTS), explique que c'est un
      installateur à double-cliquer, et attends qu'il te dise que c'est fait.
 2. Télécharge l'app dans `~/social-media-app` :
-   - avec git s'il est là (`git --version`) : `git clone https://github.com/mapplesyrup/social-media-app ~/social-media-app` ;
-   - sinon : télécharge `https://github.com/mapplesyrup/social-media-app/archive/refs/heads/main.zip`, décompresse-le
-     dans `~/social-media-app`.
+   - avec git s'il est là (`git --version`) : `git clone https://github.com/mapplesyrup/social-media-app-public ~/social-media-app` ;
+   - sinon : télécharge `https://github.com/mapplesyrup/social-media-app-public/archive/refs/heads/main.zip`, décompresse-le
+     et renomme le dossier obtenu (`social-media-app-public-main`) en `~/social-media-app`.
 3. `cd ~/social-media-app && npm install` (une ou deux minutes).
 4. Installe ce skill pour toutes ses futures conversations :
    `mkdir -p ~/.claude/skills && cp -R ~/social-media-app/claude/skills/social-media-app ~/.claude/skills/ && echo ~/social-media-app > ~/.claude/skills/social-media-app/app-path.txt`

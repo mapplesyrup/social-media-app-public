@@ -101,7 +101,7 @@ Claude te fera créer, pendant l'installation, un compte gratuit **Buffer** (pou
 1. Ouvre l'app Claude, onglet **Code**.
 2. Colle ce message :
    ```text
-   https://github.com/mapplesyrup/social-media-app — Installe-moi ça.
+   https://github.com/mapplesyrup/social-media-app-public — Installe-moi ça.
    ```
 3. Laisse-toi guider : Claude installe tout et te dit exactement où cliquer.
 
@@ -109,7 +109,7 @@ Claude te fera créer, pendant l'installation, un compte gratuit **Buffer** (pou
 
 Voici l'installation de Solène, du début à la fin :
 
-> 🙋 **Solène :** https://github.com/mapplesyrup/social-media-app — Installe-moi ça.
+> 🙋 **Solène :** https://github.com/mapplesyrup/social-media-app-public — Installe-moi ça.
 >
 > 🤖 **Claude :** Avec plaisir ! Je vais installer ton app de réseaux sociaux sur ton ordinateur. Elle tourne
 > uniquement chez toi : rien n'est hébergé ailleurs. Je vérifie d'abord ce qu'il faut sur ton Mac…
