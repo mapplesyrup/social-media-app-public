@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "./components/arc/foundation.css";
+@import "./app.css";
+
+@custom-variant dark (&:is(.dark *));

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+# Tes données restent sur ton ordinateur : elles ne sont jamais envoyées sur GitHub
+# et une mise à jour de l'app (git pull) n'y touche pas.
+public/data/*.json
+public/media/videos/*
+public/media/covers/*
+public/media/templates/*
+!public/media/**/.gitkeep
+__pycache__/
